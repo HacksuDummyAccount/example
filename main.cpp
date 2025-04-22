@@ -1,5 +1,5 @@
 #include <iostream>
 int main () {
-    int x = 3;
+    double x = 3.14;
     std::cout << x - 5 << std::endl;
 }
